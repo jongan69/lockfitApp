@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "LockFit",
+    "slug": "lockfit",
+    "scheme": "lockfit",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://lockfit.xyz"
+        }
+      ]
+    ],
+    "android": {
+      "package": "com.jongan69.lockfit"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jongan69.lockfit"
+    }
+  }
+}
