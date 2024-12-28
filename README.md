@@ -1,4 +1,3 @@
-```markdown
 # LockIn - Fitness Staking App
 
 A mobile fitness application that combines workout tracking with Solana blockchain staking, allowing users to earn $LOCKIN tokens by participating in fitness competitions and challenges.
